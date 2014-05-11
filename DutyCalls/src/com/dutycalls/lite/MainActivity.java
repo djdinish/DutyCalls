@@ -11,6 +11,7 @@ import android.view.ViewGroup;
 
 public class MainActivity extends ActionBarActivity {
 
+	//Dinish De Silva 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
